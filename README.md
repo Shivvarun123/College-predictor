@@ -1,1 +1,1 @@
-# College-predictor
+# College-Predictor
